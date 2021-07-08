@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap : https://oliviercos.github.io/OlivierCostel_4_26062021/index.html/sitemap.xml
+Sitemap : https://oliviercos.github.io/OlivierCostel_4_26062021/sitemap.xml
