@@ -379,7 +379,8 @@ background: inherit;
 }
 
 .quote{
-    font-style:italic
+    font-style:italic;
+    color:black;
 }
 
 @media (min-width: 768px) {
