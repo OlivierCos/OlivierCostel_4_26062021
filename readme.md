@@ -1,7 +1,5 @@
 # Optimiser le SEO et l'accessibilité du site web :
-```diff
-# @@ La Chouette Agence @@
-```
+# ```diff @@ La Chouette Agence @@ ```
 
 🛠️ Utilisation de bonnes et récentes pratiques en développement web
 
