@@ -1,6 +1,6 @@
 # Optimiser le SEO et l'accessibilité du site web :
-```diff
-@@ La Chouette Agence @@
+```html
+<span style="color:orange;">La Chouette Agence</span>
 ```
 
 🛠️ Utilisation de bonnes et récentes pratiques en développement web
