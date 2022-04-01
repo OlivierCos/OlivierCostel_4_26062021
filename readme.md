@@ -1,6 +1,9 @@
-# Optimiser le SEO et l'accessibilité du site web La Chouette Agence
+# Optimiser le SEO et l'accessibilité du site web :
+```diff
+@@ La Chouette Agence @@
+```
 
-🛠️ Utilisation des bonnes et récentes pratiques en développement web
+🛠️ Utilisation de bonnes et récentes pratiques en développement web
 
 🛠️ Assurer l'accessibilité du site web
 
