@@ -32,17 +32,21 @@ https://github.com/OlivierCos/OlivierCostel_4_DefaultVersion
 https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 ### Résultats
-<p align="center">
 
 
-<img alt="Performances de la page index sur Ordinateur" width=500px src="Perf_Desk_index.png"></img>
+<img align="center" alt="Performances de la page index sur Ordinateur" width=500px src="Perf_Desk_index.png"></img>
+
+
 
 
 <img alt="Performances de la page index sur Mobile" width=500px src="Perf_Mob_index.png"></img>
 
 
+
+
 <img alt="Performances de la page contact sur Ordinateur" width=500px src="Perf_Desk_contact.png"></img>
 
 
+
+
 <img alt="Performances de la page contact sur Mobile" width=500px src="Perf_Mob_contact.png"></img>
-</p>
