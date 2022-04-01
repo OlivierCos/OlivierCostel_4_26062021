@@ -32,7 +32,7 @@ https://github.com/OlivierCos/OlivierCostel_4_DefaultVersion
 https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 ### Résultats
-<p align="center" width="100%">
+<p text-align="center" width="100%">
 
 
 <img alt="Performances de la page index sur Ordinateur" width=500px src="Perf_Desk_index.png"></img>
