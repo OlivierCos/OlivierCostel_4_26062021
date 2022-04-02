@@ -29,12 +29,12 @@ https://github.com/OlivierCos/OlivierCostel_4_DefaultVersion
 
 ### Site web après modification : 
 
-https://oliviercos.github.io/OlivierCostel_4_26062021/
+https://oliviercos.github.io/Website-Optimization-SEO-Accessibility/
 
   
 </br></br>
 
-###               Résultats
+### &nbsp;   &nbsp; Résultats
 </br>
 <p align="center" width="100%">
 <img alt="Performances de la page index sur Ordinateur" width=max-width src="Perf_Desk_index.png"></img>
