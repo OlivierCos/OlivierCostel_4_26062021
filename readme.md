@@ -34,7 +34,7 @@ https://oliviercos.github.io/Website-Optimization-SEO-Accessibility/
   
 </br></br>
 
-### &nbsp;   &nbsp; Résultats
+### &nbsp;   &nbsp; &nbsp;   &nbsp; Résultats
 </br>
 <p align="center" width="100%">
 <img alt="Performances de la page index sur Ordinateur" width=max-width src="Perf_Desk_index.png"></img>
