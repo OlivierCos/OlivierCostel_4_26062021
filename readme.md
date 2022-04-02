@@ -35,7 +35,7 @@ https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 
 <p align="center" width="100%">
-<img alt="Performances de la page index sur Ordinateur" width=600px src="Perf_Desk_index.png"></img>
+<img alt="Performances de la page index sur Ordinateur" width=max-width src="Perf_Desk_index.png"></img>
 </p>
 
 
@@ -45,7 +45,7 @@ https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 
 <p align="center" width="100%">
-<img alt="Performances de la page index sur Mobile" width=600px src="Perf_Mob_index.png"></img>
+<img alt="Performances de la page index sur Mobile" width=max-width src="Perf_Mob_index.png"></img>
 </p>
 
 
@@ -55,7 +55,7 @@ https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 
 <p align="center" width="100%">
-<img alt="Performances de la page contact sur Ordinateur" width=600px src="Perf_Desk_contact.png"></img>
+<img alt="Performances de la page contact sur Ordinateur" width=max-width src="Perf_Desk_contact.png"></img>
 </p>
 
 
@@ -65,5 +65,5 @@ https://oliviercos.github.io/OlivierCostel_4_26062021/
 
 
 <p align="center" width="100%">
-<img alt="Performances de la page contact sur Mobile" width=600px src="Perf_Mob_contact.png"></img>
+<img alt="Performances de la page contact sur Mobile" width=max-width src="Perf_Mob_contact.png"></img>
 </p>
